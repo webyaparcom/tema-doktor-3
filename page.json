@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": "6wgckwbkhb",
+      "name": {
+        "tr": "Branşlar",
+        "en": "Departments",
+        "ar": "الأقسام"
+      },
+      "description": {
+        "tr": "Altı branşın kapsamı; genel bilgilendirme.",
+        "en": "The scope of six departments; general information.",
+        "ar": "نطاق الأقسام الستة؛ معلومات عامة."
+      },
+      "path": "hizmetler",
+      "icon": "work",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "m05j37",
+          "zyush5"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Sayılarla",
+        "en": "In numbers",
+        "ar": "بالأرقام"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "51zldu",
+          "zyush5"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Bekleme, muayene ve sonuç süreleri (kurgusal).",
+        "en": "Waiting, visit and result times (fictional).",
+        "ar": "أوقات الانتظار والفحص والنتائج (افتراضية)."
+      }
+    },
+    {
+      "id": "gmg32xe3zm",
+      "name": {
+        "tr": "Hekimler",
+        "en": "Physicians",
+        "ar": "الأطباء"
+      },
+      "description": {
+        "tr": "Branşlara göre kurgusal kadro.",
+        "en": "Fictional staff by department.",
+        "ar": "كادر افتراضي حسب القسم."
+      },
+      "path": "ekip",
+      "icon": "groups",
+      "category": "hakkimizda",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "c5chp5",
+          "zyush5"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "kubr4lzz12",
+      "name": {
+        "tr": "Sorular",
+        "en": "Questions",
+        "ar": "الأسئلة"
+      },
+      "description": {
+        "tr": "Merak edilenler ve kısa yanıtlar.",
+        "en": "Common questions and short answers.",
+        "ar": "أسئلة متكررة وإجابات موجزة."
+      },
+      "path": "sorular",
+      "icon": "help",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "2yi7zc"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "qu4m02xygh",
+      "name": {
+        "tr": "Randevu",
+        "en": "Appointment",
+        "ar": "موعد"
+      },
+      "description": {
+        "tr": "Hekim ve gün seçerek randevu talebi (demo).",
+        "en": "Appointment request by physician and day (demo).",
+        "ar": "طلب موعد باختيار الطبيب واليوم (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "0eda0b"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "tmaysn",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}
