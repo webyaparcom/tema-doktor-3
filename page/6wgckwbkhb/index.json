@@ -1,0 +1,40 @@
+{
+  "id": "6wgckwbkhb",
+  "name": {
+    "tr": "Branşlar",
+    "en": "Departments",
+    "ar": "الأقسام"
+  },
+  "description": {
+    "tr": "Altı branşın kapsamı; genel bilgilendirme.",
+    "en": "The scope of six departments; general information.",
+    "ar": "نطاق الأقسام الستة؛ معلومات عامة."
+  },
+  "keyword": {
+    "tr": "Branşlar",
+    "en": "Departments",
+    "ar": "الأقسام"
+  },
+  "path": "hizmetler",
+  "icon": "work",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "m05j37",
+      "zyush5"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Branşlar",
+    "en": "Departments",
+    "ar": "الأقسام"
+  },
+  "date": "2026-11-16T16:00:30.053Z",
+  "update": "2026-11-16T16:21:05.499Z"
+}

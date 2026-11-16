@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Sayılarla",
+    "en": "In numbers",
+    "ar": "بالأرقام"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "51zldu",
+      "zyush5"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Bekleme, muayene ve sonuç süreleri (kurgusal).",
+    "en": "Waiting, visit and result times (fictional).",
+    "ar": "أوقات الانتظار والفحص والنتائج (افتراضية)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Sayılarla",
+    "en": "In numbers",
+    "ar": "بالأرقام"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T16:21:05.503Z",
+  "date": "2026-10-30"
+}

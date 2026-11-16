@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Erguvan Tıp Merkezi: dahiliye, kardiyoloji, çocuk ve kadın sağlığı, KBB ve laboratuvar; ölçülen bekleme ve sonuç süreleriyle randevulu muayene. Demo site; içerik kurgusaldır.",
+    "en": "Erguvan Medical Centre: internal medicine, cardiology, paediatrics, women’s health, ENT and laboratory; appointment-based visits with measured waiting and result times. Demo site; content is fictional.",
+    "ar": "مركز إرغوان الطبي: الطب الباطني وأمراض القلب وطب الأطفال وصحة المرأة والأنف والأذن والحنجرة والمختبر؛ فحوص بالمواعيد مع أوقات انتظار ونتائج مُقاسة. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "tıp merkezi, dahiliye, kardiyoloji, çocuk doktoru, randevu, laboratuvar",
+    "en": "medical centre, internal medicine, cardiology, paediatrician, appointment, laboratory",
+    "ar": "مركز طبي، طب باطني، أمراض القلب، طبيب أطفال، موعد، مختبر"
+  },
+  "category": "Kurumsal",
+  "name": "Erguvan Tıp Merkezi",
+  "domain": "doktor-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "source-sans-3",
+    "heading": "montserrat",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#6B2A5E",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "4px",
+    "--mx-radius-md": "6px",
+    "--mx-radius-lg": "8px",
+    "--mx-radius-xl": "11px"
+  },
+  "icon": "icon.png"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gmg32xe3zm",
+  "name": {
+    "tr": "Hekimler",
+    "en": "Physicians",
+    "ar": "الأطباء"
+  },
+  "description": {
+    "tr": "Branşlara göre kurgusal kadro.",
+    "en": "Fictional staff by department.",
+    "ar": "كادر افتراضي حسب القسم."
+  },
+  "keyword": {
+    "tr": "ekip, kadro",
+    "en": "team, staff",
+    "ar": "فريق، طاقم"
+  },
+  "path": "ekip",
+  "icon": "groups",
+  "category": "hakkimizda",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "c5chp5",
+      "zyush5"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Hekimler",
+    "en": "Physicians",
+    "ar": "الأطباء"
+  },
+  "date": "2026-11-16T16:00:30.065Z",
+  "update": "2026-11-16T16:21:05.507Z"
+}

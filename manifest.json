@@ -1,0 +1,29 @@
+{
+  "name": "Erguvan Tıp Merkezi",
+  "short_name": "Erguvan Tıp",
+  "description": "Erguvan Tıp Merkezi: dahiliye, kardiyoloji, çocuk ve kadın sağlığı, KBB ve laboratuvar; ölçülen bekleme ve sonuç süreleriyle randevulu muayene. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6B2A5E",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
