@@ -2,7 +2,9 @@
   "name": {
     "tr": "Sayılarla",
     "en": "In numbers",
-    "ar": "بالأرقام"
+    "ar": "بالأرقام",
+    "de": "In Zahlen",
+    "ru": "В цифрах"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Bekleme, muayene ve sonuç süreleri (kurgusal).",
     "en": "Waiting, visit and result times (fictional).",
-    "ar": "أوقات الانتظار والفحص والنتائج (افتراضية)."
+    "ar": "أوقات الانتظار والفحص والنتائج (افتراضية).",
+    "de": "Warte-, Untersuchungs- und Befundzeiten (fiktiv).",
+    "ru": "Время ожидания, осмотра и получения результата (вымышленное)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Sayılarla",
     "en": "In numbers",
-    "ar": "بالأرقام"
+    "ar": "بالأرقام",
+    "de": "In Zahlen",
+    "ru": "В цифрах"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T16:21:05.503Z",
