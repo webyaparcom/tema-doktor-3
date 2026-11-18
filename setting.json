@@ -4,12 +4,16 @@
   "description": {
     "tr": "Erguvan Tıp Merkezi: dahiliye, kardiyoloji, çocuk ve kadın sağlığı, KBB ve laboratuvar; ölçülen bekleme ve sonuç süreleriyle randevulu muayene. Demo site; içerik kurgusaldır.",
     "en": "Erguvan Medical Centre: internal medicine, cardiology, paediatrics, women’s health, ENT and laboratory; appointment-based visits with measured waiting and result times. Demo site; content is fictional.",
-    "ar": "مركز إرغوان الطبي: الطب الباطني وأمراض القلب وطب الأطفال وصحة المرأة والأنف والأذن والحنجرة والمختبر؛ فحوص بالمواعيد مع أوقات انتظار ونتائج مُقاسة. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "مركز إرغوان الطبي: الطب الباطني وأمراض القلب وطب الأطفال وصحة المرأة والأنف والأذن والحنجرة والمختبر؛ فحوص بالمواعيد مع أوقات انتظار ونتائج مُقاسة. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Erguvan Tıp Merkezi: Innere Medizin, Kardiologie, Kinder- und Frauenheilkunde, HNO und Labor; Termine mit gemessenen Warte- und Ergebnisdauern. Demo-Seite; Inhalte sind fiktiv.",
+    "ru": "Erguvan Tıp Merkezi: внутренняя медицина, кардиология, педиатрия и женское здоровье, ЛОР и лаборатория; записи с измеренным временем ожидания и получения результатов. Демо-сайт; контент вымышленный."
   },
   "keyword": {
     "tr": "tıp merkezi, dahiliye, kardiyoloji, çocuk doktoru, randevu, laboratuvar",
     "en": "medical centre, internal medicine, cardiology, paediatrician, appointment, laboratory",
-    "ar": "مركز طبي، طب باطني، أمراض القلب، طبيب أطفال، موعد، مختبر"
+    "ar": "مركز طبي، طب باطني، أمراض القلب، طبيب أطفال، موعد، مختبر",
+    "de": "Medizinisches Zentrum, Innere Medizin, Kardiologie, Kinderarzt, Termin, Labor",
+    "ru": "медицинский центр, внутренняя медицина, кардиология, педиатр, запись, лаборатория"
   },
   "category": "Kurumsal",
   "name": "Erguvan Tıp Merkezi",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

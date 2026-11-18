@@ -3,17 +3,23 @@
   "name": {
     "tr": "Branşlar",
     "en": "Departments",
-    "ar": "الأقسام"
+    "ar": "الأقسام",
+    "de": "Fachbereiche",
+    "ru": "Отделения"
   },
   "description": {
     "tr": "Altı branşın kapsamı; genel bilgilendirme.",
     "en": "The scope of six departments; general information.",
-    "ar": "نطاق الأقسام الستة؛ معلومات عامة."
+    "ar": "نطاق الأقسام الستة؛ معلومات عامة.",
+    "de": "Umfang der sechs Fachbereiche; allgemeine Information.",
+    "ru": "Охват шести направлений; общая информация."
   },
   "keyword": {
     "tr": "Branşlar",
     "en": "Departments",
-    "ar": "الأقسام"
+    "ar": "الأقسام",
+    "de": "Fachbereiche",
+    "ru": "Отделения"
   },
   "path": "hizmetler",
   "icon": "work",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Branşlar",
     "en": "Departments",
-    "ar": "الأقسام"
+    "ar": "الأقسام",
+    "de": "Fachbereiche",
+    "ru": "Отделения"
   },
   "date": "2026-11-16T16:00:30.053Z",
   "update": "2026-11-16T16:21:05.499Z"

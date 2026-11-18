@@ -3,17 +3,23 @@
   "name": {
     "tr": "Hekimler",
     "en": "Physicians",
-    "ar": "الأطباء"
+    "ar": "الأطباء",
+    "de": "Ärzte",
+    "ru": "Врачи"
   },
   "description": {
     "tr": "Branşlara göre kurgusal kadro.",
     "en": "Fictional staff by department.",
-    "ar": "كادر افتراضي حسب القسم."
+    "ar": "كادر افتراضي حسب القسم.",
+    "de": "Fiktives Personal nach Abteilungen.",
+    "ru": "Вымышленный персонал по отделам."
   },
   "keyword": {
     "tr": "ekip, kadro",
     "en": "team, staff",
-    "ar": "فريق، طاقم"
+    "ar": "فريق، طاقم",
+    "de": "Team, Personal",
+    "ru": "команда, персонал"
   },
   "path": "ekip",
   "icon": "groups",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Hekimler",
     "en": "Physicians",
-    "ar": "الأطباء"
+    "ar": "الأطباء",
+    "de": "Ärzte",
+    "ru": "Врачи"
   },
   "date": "2026-11-16T16:00:30.065Z",
   "update": "2026-11-16T16:21:05.507Z"

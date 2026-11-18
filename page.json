@@ -5,12 +5,16 @@
       "name": {
         "tr": "Branşlar",
         "en": "Departments",
-        "ar": "الأقسام"
+        "ar": "الأقسام",
+        "de": "Fachbereiche",
+        "ru": "Отделения"
       },
       "description": {
         "tr": "Altı branşın kapsamı; genel bilgilendirme.",
         "en": "The scope of six departments; general information.",
-        "ar": "نطاق الأقسام الستة؛ معلومات عامة."
+        "ar": "نطاق الأقسام الستة؛ معلومات عامة.",
+        "de": "Umfang der sechs Fachbereiche; allgemeine Information.",
+        "ru": "Охват шести направлений; общая информация."
       },
       "path": "hizmetler",
       "icon": "work",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Sayılarla",
         "en": "In numbers",
-        "ar": "بالأرقام"
+        "ar": "بالأرقام",
+        "de": "In Zahlen",
+        "ru": "В цифрах"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -51,7 +57,9 @@
       "description": {
         "tr": "Bekleme, muayene ve sonuç süreleri (kurgusal).",
         "en": "Waiting, visit and result times (fictional).",
-        "ar": "أوقات الانتظار والفحص والنتائج (افتراضية)."
+        "ar": "أوقات الانتظار والفحص والنتائج (افتراضية).",
+        "de": "Warte-, Untersuchungs- und Befundzeiten (fiktiv).",
+        "ru": "Время ожидания, осмотра и получения результата (вымышленное)."
       }
     },
     {
@@ -59,12 +67,16 @@
       "name": {
         "tr": "Hekimler",
         "en": "Physicians",
-        "ar": "الأطباء"
+        "ar": "الأطباء",
+        "de": "Ärzte",
+        "ru": "Врачи"
       },
       "description": {
         "tr": "Branşlara göre kurgusal kadro.",
         "en": "Fictional staff by department.",
-        "ar": "كادر افتراضي حسب القسم."
+        "ar": "كادر افتراضي حسب القسم.",
+        "de": "Fiktives Personal nach Abteilungen.",
+        "ru": "Вымышленный персонал по отделам."
       },
       "path": "ekip",
       "icon": "groups",
@@ -85,12 +97,16 @@
       "name": {
         "tr": "Sorular",
         "en": "Questions",
-        "ar": "الأسئلة"
+        "ar": "الأسئلة",
+        "de": "FAQ",
+        "ru": "FAQ"
       },
       "description": {
         "tr": "Merak edilenler ve kısa yanıtlar.",
         "en": "Common questions and short answers.",
-        "ar": "أسئلة متكررة وإجابات موجزة."
+        "ar": "أسئلة متكررة وإجابات موجزة.",
+        "de": "Was Sie wissen möchten, in kurzen Antworten.",
+        "ru": "Что интересует читателей — в коротких ответах."
       },
       "path": "sorular",
       "icon": "help",
@@ -110,12 +126,16 @@
       "name": {
         "tr": "Randevu",
         "en": "Appointment",
-        "ar": "موعد"
+        "ar": "موعد",
+        "de": "Termin",
+        "ru": "Запись"
       },
       "description": {
         "tr": "Hekim ve gün seçerek randevu talebi (demo).",
         "en": "Appointment request by physician and day (demo).",
-        "ar": "طلب موعد باختيار الطبيب واليوم (تجريبي)."
+        "ar": "طلب موعد باختيار الطبيب واليوم (تجريبي).",
+        "de": "Terminanfrage durch Auswahl von Arzt und Tag (Demo).",
+        "ru": "Запрос на приём с выбором врача и дня (демо)."
       },
       "path": "teklif-al",
       "icon": "event",
@@ -134,7 +154,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -155,7 +177,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],

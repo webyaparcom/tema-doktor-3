@@ -3,17 +3,23 @@
   "name": {
     "tr": "Randevu",
     "en": "Appointment",
-    "ar": "موعد"
+    "ar": "موعد",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "description": {
     "tr": "Hekim ve gün seçerek randevu talebi (demo).",
     "en": "Appointment request by physician and day (demo).",
-    "ar": "طلب موعد باختيار الطبيب واليوم (تجريبي)."
+    "ar": "طلب موعد باختيار الطبيب واليوم (تجريبي).",
+    "de": "Terminanfrage durch Auswahl von Arzt und Tag (Demo).",
+    "ru": "Запрос на приём с выбором врача и дня (демо)."
   },
   "keyword": {
     "tr": "randevu",
     "en": "appointment",
-    "ar": "موعد"
+    "ar": "موعد",
+    "de": "Termin",
+    "ru": "запись"
   },
   "path": "teklif-al",
   "icon": "event",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "Randevu",
     "en": "Appointment",
-    "ar": "موعد"
+    "ar": "موعد",
+    "de": "Termin",
+    "ru": "Запись"
   },
   "date": "2026-11-16T16:00:30.075Z",
   "update": "2026-11-16T16:21:05.514Z"
